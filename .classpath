@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/httpasyncclient-4.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/httpclient-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/json-20190722.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/unirest-java-3.1.02.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/apache-4_5_10/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/apache-4_5_10/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/apache-4_5_10/fluent-hc-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/apache-4_5_10/httpclient-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/apache-4_5_10/httpclient-cache-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/apache-4_5_10/httpclient-osgi-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/apache-4_5_10/httpclient-win-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/apache-4_5_10/httpcore-4.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/apache-4_5_10/httpmime-4.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/apache-4_5_10/jna-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/apache-4_5_10/jna-platform-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/httpcomponents-asyncclient-4.1.4/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/httpcomponents-asyncclient-4.1.4/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/httpcomponents-asyncclient-4.1.4/lib/httpasyncclient-4.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/httpcomponents-asyncclient-4.1.4/lib/httpasyncclient-cache-4.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/httpcomponents-asyncclient-4.1.4/lib/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/httpcomponents-asyncclient-4.1.4/lib/httpclient-cache-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/httpcomponents-asyncclient-4.1.4/lib/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="C:/src/IoT/WeatherReese/libs/httpcomponents-asyncclient-4.1.4/lib/httpcore-nio-4.4.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
